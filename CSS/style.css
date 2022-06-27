@@ -1,0 +1,31 @@
+h1{
+    color: #ffffff;
+}
+h2{
+    color: #ffbe0b;
+}
+h3{
+    color:black;
+    border-color: solid black 2px;
+    background-color:yellow;
+
+   
+}
+
+
+
+h4{
+    color: #ffffff;
+    font-size: 20px;
+}
+ul{
+    color: #ffffff;
+}
+body{
+   background-color: #023047;
+   
+}
+.programas{
+    color: red;
+}
+
